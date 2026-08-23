@@ -25,9 +25,8 @@
 </p>
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gwynerd&theme=tokyonight"
-    height="180"
-    alt="Most Commit Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynerd&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=500"
+    alt="Top Programming Languages"
   />
 </p>
 
