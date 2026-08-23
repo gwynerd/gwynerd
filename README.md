@@ -24,9 +24,9 @@
   />
 </p>
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynerd"
-    alt="Top Languages"
+   <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gwynerd&theme=tokyonight"
+    alt="Most Used Languages"
   />
 </p>
 
