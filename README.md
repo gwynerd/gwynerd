@@ -5,10 +5,6 @@
 </h3>
 
 <p align="center">
-  <i>Building practical solutions through software, AI, cloud technologies and IoT.</i>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/gwyneth-q-b59a00314/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -18,6 +14,42 @@
   <a href="https://github.com/gwynerd">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=gwynerd&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gwynerd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Gwyneth's GitHub Stats"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynerd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=gwynerd&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -62,6 +94,6 @@
 ## Developer & Design Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github,vscode,figma" />
 </p>
 
