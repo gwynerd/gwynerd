@@ -79,6 +79,6 @@
 
 ## Developer & Design Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jenkins,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=jenkins,docker,git,github,vscode,figma" />
 </p>
 
