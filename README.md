@@ -21,26 +21,47 @@
 </p>
 
 ---
+## Programming Languages
 
-## About Me
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,dart,html,css" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="48" />
+</p>
 
-```javascript
-const gwyneth = {
-  education: "Diploma in Information Technology @ Temasek Polytechnic",
+## Frameworks & Libraries
 
-  interests: [
-    "Full-Stack Development",
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Cloud Computing",
-    "IoT"
-  ],
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="48" />
+</p>
 
-  currentlyExploring: [
-    "AI-powered applications",
-    "Cloud technologies",
-    "Scalable web applications"
-  ],
+## Databases
 
-  goal: "Build technology that solves real-world problems"
-};
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="48" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="48" />
+</p>
+
+## Cloud & IoT
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS_IoT_Core-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Amazon_SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="48" />
+</p>
+
+## Developer & Design Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
