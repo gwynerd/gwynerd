@@ -1,9 +1,7 @@
 <h1 align="center">Hello! I'm Gwyneth</h1>
-
 <h3 align="center">
   Information Technology Student | Aspiring Full-Stack Developer
 </h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gwyneth-q-b59a00314/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,57 +16,14 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=gwynerd&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gwynerd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
-    alt="Gwyneth's GitHub Stats"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynerd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=gwynerd&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
----
-
-## 📈 GitHub Activity
-
+## GitHub Activity
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwynerd&theme=tokyonight"
     alt="GitHub Profile Summary"
   />
 </p>
-
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwynerd&theme=tokyonight"
-    height="180"
-    alt="Repositories Per Language"
-  />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gwynerd&theme=tokyonight"
     height="180"
@@ -78,7 +33,6 @@
 
 ---
 ## Programming Languages
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,dart,html,css" />
   &nbsp;
@@ -86,7 +40,6 @@
 </p>
 
 ## Frameworks & Libraries
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flutter" />
   &nbsp;
@@ -96,7 +49,6 @@
 </p>
 
 ## Databases
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,mongodb" />
   &nbsp;
@@ -105,7 +57,6 @@
 </p>
 
 ## Cloud & IoT
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" />
   &nbsp;
@@ -116,7 +67,6 @@
 </p>
 
 ## Developer & Design Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=jenkins,git,github,vscode,figma" />
 </p>
