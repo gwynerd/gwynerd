@@ -29,6 +29,18 @@
     alt="Most Used Languages"
   />
 </p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=gwynerd&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=gwynerd&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 ---
 ## Programming Languages
