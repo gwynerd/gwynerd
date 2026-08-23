@@ -51,6 +51,30 @@
     alt="GitHub Streak"
   />
 </p>
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwynerd&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gwynerd&theme=tokyonight"
+    height="180"
+    alt="Repositories Per Language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gwynerd&theme=tokyonight"
+    height="180"
+    alt="Most Commit Language"
+  />
+</p>
 
 ---
 ## Programming Languages
