@@ -1,16 +1,30 @@
-<h1 align="center">Hello! I'm Gwyneth</h1>
+<p align="right">
+  <img
+    src="https://komarev.com/ghpvc/?username=gwynerd&label=visitors&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=800&color=29B6F6&center=true&vCenter=true&width=700&lines=Hello+there!;I+am+Gwyneth!"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+<hr>
 <h3 align="center">
   Information Technology Student | Aspiring Full-Stack Developer
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gwyneth-q-b59a00314/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gwynethquekk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/gwynerd">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -33,12 +47,6 @@
   <img
     src="https://streak-stats.demolab.com/?user=gwynerd&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=gwynerd&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
-    alt="Profile Views"
   />
 </p>
 
