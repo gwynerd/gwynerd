@@ -14,6 +14,12 @@
 </p>
 <hr>
 <h3 align="center">
+  <img
+    align="center"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE5MmM5dHQ0dmU1eHNsNnNyN3AzOWl2c3gyN3p6aDVnN2I3YWZmOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7lsw8RenVcjCM/giphy.gif"
+    width="40"
+    alt="Animation"
+    />
   Information Technology Student | Aspiring Full-Stack Developer
 </h3>
 <p align="center">
