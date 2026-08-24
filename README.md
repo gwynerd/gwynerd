@@ -33,19 +33,23 @@
 ## GitHub Activity
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwynerd&theme=tokyonight"
-    alt="GitHub Profile Summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gwynerd&theme=github_dark"
+    width="85%"
+    alt="Gwyneth's GitHub Activity"
   />
 </p>
 <p align="center">
   <img
     src="./profile/stats.svg"
-    width="48%"
+    width="400"
+    height="230"
     alt="GitHub Statistics"
   />
+  &nbsp;&nbsp;
   <img
     src="./profile/languages.svg"
-    width="48%"
+    width="420"
+    height="250"
     alt="Most Used Languages"
   />
 </p>
