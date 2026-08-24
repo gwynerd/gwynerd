@@ -41,12 +41,12 @@
   <img
     src="./profile/stats.svg"
     width="48%"
-    alt="Gwyneth's GitHub Statistics"
+    alt="GitHub Statistics"
   />
   <img
     src="./profile/languages.svg"
     width="48%"
-    alt="Gwyneth's Most Used Languages"
+    alt="Most Used Languages"
   />
 </p>
 
