@@ -38,15 +38,15 @@
   />
 </p>
 <p align="center">
-   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gwynerd&theme=tokyonight"
-    alt="Most Used Languages"
-  />
-</p>
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=gwynerd&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="./profile/stats.svg"
+    width="48%"
+    alt="Gwyneth's GitHub Statistics"
+  />
+  <img
+    src="./profile/languages.svg"
+    width="48%"
+    alt="Gwyneth's Most Used Languages"
   />
 </p>
 
