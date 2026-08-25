@@ -34,6 +34,19 @@
   </a>
 </p>
 
+### About Me
+
+- I am currently a final year Information Technology Diploma student! 
+- I am interested in Full-Stack Development, Machine Learning, Cloud Computing & IoT
+- Outside of coding, I really enjoy music and hiking
+
+### My Recently Played Songs
+<p align="left">
+<a href="https://open.spotify.com/user/c481c6ww12195zgzydstqxxd3">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=c481c6ww12195zgzydstqxxd3&amp;theme=spotify&amp;count=3&amp;username=off" alt="Spotify recently played" width="400" />
+</a>
+</p>
+
 ---
 
 ## GitHub Activity
