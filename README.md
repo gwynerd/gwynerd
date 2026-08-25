@@ -43,7 +43,7 @@
 ### My Recently Played Songs
 <p align="left">
 <a href="https://open.spotify.com/user/c481c6ww12195zgzydstqxxd3">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=c481c6ww12195zgzydstqxxd3&amp;theme=spotify&amp;count=3&amp;username=off" alt="Spotify recently played" width="400" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=c481c6ww12195zgzydstqxxd3&amp;theme=spotify&amp;count=3&amp;profile=off&amp;username=off" alt="Spotify recently played" width="400" />
 </a>
 </p>
 
