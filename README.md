@@ -36,14 +36,30 @@
     <img src="https://img.shields.io/badge/Steam-181717?style=flat-square&logo=steam&logoColor=white" />
   </a>
 </p>
-
-### About Me
-
+<p>
+  <h3 align="left">
+    About Me
+    <img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1iMGEwaTM1cGs0bXFuMjd2MTFwb2Jhb2QwYTBxeGtuYjJiZnE4OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif"
+      width="40"
+      alt="Animation"
+      </h3>
+</p>
+    
 - I am currently a final year Information Technology Diploma student! 
 - I am interested in Full-Stack Development, Machine Learning, Cloud Computing & IoT
 - Outside of coding, I really enjoy music, gaming and hiking
 
-### My Recently Played Songs
+<p>
+  <h3 align="left">
+    My Recently Played Songs
+    <img
+src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enBqYzIwM3Vla3Z4MjdveXlvbGZlc2YzNnAzNjg5cjhsMGZsdjdvciZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yK2mq6beeYNQlCBKue/giphy.gif"
+    width="40"
+    alt="Animation"
+    />
+  </h3>
+</p>
 <p align="left">
 <a href="https://open.spotify.com/user/c481c6ww12195zgzydstqxxd3">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=c481c6ww12195zgzydstqxxd3&amp;theme=spotify&amp;count=3&amp;profile=off&amp;username=off" alt="Spotify recently played" width="400" />
