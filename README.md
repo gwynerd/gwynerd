@@ -32,13 +32,16 @@
   <a href="https://github.com/gwynerd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <a href="https://steamcommunity.com/profiles/76561198829945670/">
+    <img src="https://img.shields.io/badge/Steam-181717?style=flat-square&logo=steam&logoColor=white" />
+  </a>
 </p>
 
 ### About Me
 
 - I am currently a final year Information Technology Diploma student! 
 - I am interested in Full-Stack Development, Machine Learning, Cloud Computing & IoT
-- Outside of coding, I really enjoy music and hiking
+- Outside of coding, I really enjoy music, gaming and hiking
 
 ### My Recently Played Songs
 <p align="left">
