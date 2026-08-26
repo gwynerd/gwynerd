@@ -48,6 +48,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1iMGEwaTM1cGs0bXFuMjd2MT
     
 - I am currently a final year Information Technology Diploma student! 
 - I am interested in Full-Stack Development, Machine Learning, Cloud Computing & IoT
+- Currently learning how to develop a game on Roblox! 😎
 - Outside of coding, I really enjoy music, gaming and hiking
 
 <p>
