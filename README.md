@@ -96,7 +96,7 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enBqYzIwM3Vla3Z4MjdveXlvbG
 ---
 ## Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,dart,html,css,lua" />
   &nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="48" />
 </p>
